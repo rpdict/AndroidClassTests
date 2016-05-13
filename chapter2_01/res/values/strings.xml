@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">chapter2_01</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_index">IndexActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <string-array name="city">
+        <item>沈阳市</item>
+        <item>大连市</item>
+        <item>鞍山市</item>
+        <item>抚顺市</item>
+        <item>本溪市</item>
+        <item>丹东市</item>
+        <item>锦州市</item>
+        <item>营口市</item>
+        <item>阜新市</item>
+        <item>辽阳市</item>
+        <item>铁岭市</item>
+        <item>朝阳市</item>
+        <item>盘锦市</item>
+        <item>葫芦岛市</item>
+    </string-array>
+
+    <string name="title_activity_reg_sure">RegSureActivity</string>
+
+</resources>

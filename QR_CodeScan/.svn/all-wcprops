@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/app/!svn/ver/1378/example/QR_CodeScan
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/app/!svn/ver/1379/example/QR_CodeScan/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/app/!svn/ver/1379/example/QR_CodeScan/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/app/!svn/ver/1379/example/QR_CodeScan/.project
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/app/!svn/ver/1379/example/QR_CodeScan/proguard-project.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/app/!svn/ver/1379/example/QR_CodeScan/AndroidManifest.xml
+END
+ic_launcher-web.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/app/!svn/ver/1379/example/QR_CodeScan/ic_launcher-web.png
+END

@@ -48,10 +48,9 @@ public class MainActivity extends Activity {
 		map.put("answer", "可提现金额=我的余额-已冻结金额22");
 		list.add(map);
 
-		/*SimpleAdapter adapter = new SimpleAdapter(MainActivity.this,
-				list, R.layout.list, new String[]{"question", "answer"}, new int[]{R.id.tvProblem, R.id.tvAnswer});*/
+		SimpleAdapter adapter = new SimpleAdapter(MainActivity.this,list, R.layout.list, new String[]{"question", "answer"}, new int[]{R.id.tvProblem, R.id.tvAnswer});
 
-		ProblemAdapter adapter = new ProblemAdapter(MainActivity.this, list);
+		// ProblemAdapter adapter = new ProblemAdapter(MainActivity.this, list);
 
 		listView.setAdapter(adapter);
 

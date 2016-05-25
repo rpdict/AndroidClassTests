@@ -1,0 +1,4 @@
+1.放到E盘根目录下
+2.启动tomcat7/bin/startup.bat
+3.浏览器访问http://localhost:999出现tomcat界面即成功
+4.接口调试地址：http://localhost:999/chapter7_server/servlet/LoginServlet?userName=admin&pwd=a

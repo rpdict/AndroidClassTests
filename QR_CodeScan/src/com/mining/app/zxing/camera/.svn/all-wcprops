@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/app/!svn/ver/1379/example/QR_CodeScan/src/com/mining/app/zxing/camera
+END
+FlashlightManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/app/!svn/ver/1379/example/QR_CodeScan/src/com/mining/app/zxing/camera/FlashlightManager.java
+END
+CameraManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/app/!svn/ver/1379/example/QR_CodeScan/src/com/mining/app/zxing/camera/CameraManager.java
+END
+AutoFocusCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/app/!svn/ver/1379/example/QR_CodeScan/src/com/mining/app/zxing/camera/AutoFocusCallback.java
+END
+CameraConfigurationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/app/!svn/ver/1379/example/QR_CodeScan/src/com/mining/app/zxing/camera/CameraConfigurationManager.java
+END
+PlanarYUVLuminanceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/app/!svn/ver/1379/example/QR_CodeScan/src/com/mining/app/zxing/camera/PlanarYUVLuminanceSource.java
+END
+PreviewCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/app/!svn/ver/1379/example/QR_CodeScan/src/com/mining/app/zxing/camera/PreviewCallback.java
+END

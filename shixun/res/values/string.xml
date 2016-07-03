@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ttt">col</string>
+    <string name="tlp">spinner</string>
+    <string-array name="caidan_array">
+        <item >周一</item>
+        <item >周二</item>
+        <item >周三</item>
+        <item >周四</item>
+        <item >周五</item>
+        <item >周六</item>
+    </string-array>
+</resources>
